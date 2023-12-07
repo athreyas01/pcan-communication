@@ -24,6 +24,7 @@ The `timerwrite.py` script allows you to write data and timer settings and send 
 The `timerread.py` script allows you to retrieve timer data from sender through PCAN IPEH-002022-336673 connectors.
 
 Usage:
+```
 ```bash
 python timerwrite.py
 ```bash
